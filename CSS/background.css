@@ -1,0 +1,19 @@
+/* * { 
+    margin: 0;
+    padding: 0;
+}
+*/
+.cor-fundo {
+     background-color: blueviolet;
+     width: 50%;
+     height: 300px;
+}
+h2 {
+    display: inline;
+}
+p{
+    display: inline;
+} 
+.item-1 {background-color: blue;}
+.item-2 {background-color: aqua;}
+.item-3 {background-color: aquamarine;}
