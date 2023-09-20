@@ -1,0 +1,51 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 105%;
+}
+body{
+    background-color: purple;
+}
+.espaco {
+    width: 220px;
+    height: 110px;
+  
+    border: 10px solid green;
+}
+#caixa {
+    display: flex;
+    width: 75%;
+    height: 480px;
+    border: 10px solid green;
+    margin-top: 50px;
+    justify-content: space-around;
+    flex-flow: row wrap;
+    align-items: center;
+}
+.divv 
+{
+    width: 350px;
+    height: 150px;
+    border: 10px solid green;
+}
+.colun {
+    width: 260px;
+    height: 130px;
+    border: 10px solid green;
+    margin-bottom: 25px;
+}
+#col {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    right: 20px;
+    top: 197px;
+}
